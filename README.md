@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on an OCR AI application to convert handwritten notes and diagrams to LateX and PDFs in Next.js.<br>Im looking for software engineering internships.<br>Im currently specializing in Js, Ts, Next.js and Docker.
+Im currently working on an OCR AI application to convert handwritten notes and diagrams to LateX and PDFs in Next.js.Concurrently I'm working on a Rust Backend rewrite of a Shopify inventory tracking and management system in Tauri, refreshing the React.js frontend with Ant Design components.<br>Im looking for software engineering and ML/AI focused internships.<br>Im currently specializing in Js, Ts, Next.js and Tauri.
 
 
 ## 🌐 Socials:
