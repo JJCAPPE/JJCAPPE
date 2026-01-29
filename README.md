@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on an OCR AI application to convert handwritten notes and diagrams to LateX and PDFs in Next.js.Concurrently I'm working on a Rust Backend rewrite of a Shopify inventory tracking and management system in Tauri, refreshing the React.js frontend with Ant Design components.<br>Im looking for software engineering and ML/AI focused internships.<br>Im currently specializing in Js, Ts, Next.js and Tauri.
+I’m currently working as a researcher at Boston University building a computer-vision and biomechanics pipeline to convert single-camera rowing video into 3D skeletal motion and stroke-level kinematic metrics using Python, MMPose, and MotionBERT. In parallel, I’m developing sequence-to-sequence ML models that map time-aligned joint kinematics to predicted force curves and power output, validated against instrumented telemetry data. I’m focused on applied ML, computer vision, and sports engineering research, and actively seeking ML/AI and software engineering work opportunities.
 
 
 ## 🌐 Socials:
