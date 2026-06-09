@@ -1,5 +1,5 @@
 # About Me:
-I’m currently working as a researcher at Boston University building a computer-vision and biomechanics pipeline to convert single-camera rowing video into 3D skeletal motion and stroke-level kinematic metrics using Python, MMPose, and MotionBERT. In parallel, I’m developing sequence-to-sequence ML models that map time-aligned joint kinematics to predicted force curves and power output, validated against instrumented telemetry data. I’m focused on applied ML, computer vision, and sports engineering research, and actively seeking ML/AI and software engineering work opportunities.
+Im currently working at Banca Mediolanum as an intern, focusing on Data Science and Machine Learning models for Customer Marketing. I’m focused on applied ML, computer vision, and sports engineering research, and actively seeking ML/AI and software engineering work opportunities.
 
 
 ## 🌐 Socials:
